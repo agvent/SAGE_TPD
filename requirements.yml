@@ -23,6 +23,7 @@ dependencies:
   - hdf5=1.14.2           # align with h5py build
   - h5py=3.9.*            # built against HDF5 1.14.2
   - pycocotools
+  - imgaug
   - pip:
       - tensorflow==2.10.*
       - keras==2.10.*
